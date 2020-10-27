@@ -1,3 +1,5 @@
+Note - this code has been adapted from [the parent Koopman AE repo](https://github.com/erichson/koopmanAE) for neural signal prediction, specifically.
+
 # Consistent Koopman Autoencoders
 
 Research code that demonstrates consistent Koopman autoencoders on the nonlinear pendulum with no friction.
